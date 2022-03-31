@@ -7,7 +7,7 @@ import SmartBanner from 'react-smartbanner';
 import 'react-smartbanner/dist/main.css';
 ReactDOM.render(
 	<React.StrictMode>
-		<SmartBanner title={'Container Store'} />
+		<SmartBanner title={'The Container Store'} />
 		<App />
 	</React.StrictMode>,
 	document.getElementById('root')
